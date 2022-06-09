@@ -1,4 +1,4 @@
 public class MyClass {
-    public String text = "s";
+    public String text = "s1";
 
 }
